@@ -10,4 +10,9 @@ Dark green: #28b485
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+  /*
+   * change the box model so that borders and paddings are no longer added
+   * to total width and total height that we specify for a box
+  */
 }
