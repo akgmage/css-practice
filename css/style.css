@@ -22,6 +22,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #777;
+  padding: 30px;
 }
 .header {
   height: 95vh;
