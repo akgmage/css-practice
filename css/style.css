@@ -106,6 +106,12 @@ body {
   padding: 15px 40px;
   display: inline-block;
 }
+.btn:hover {
+  transform: translateY(-3px);
+}
+.btn:active {
+  transform: translateY(-1px);
+}
 .btn-white {
   background-color: #fff;
   color: #777;
