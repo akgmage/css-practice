@@ -58,7 +58,7 @@ body {
   display: block;
   font-size: 60px;
   font-weight: 400;
-  letter-spacing: 35px;
+  letter-spacing: 25px;
   animation-name: moveInLeft;
   animation-duration: 1s;
   animation-timing-function: ease-out;
