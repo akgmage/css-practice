@@ -46,11 +46,13 @@ body {
   top: 40%;
   left: 50%;
   transform: translate(-40%, -50%);
+  text-align: center;
 }
 .heading-primary {
   color: #fff;
   text-transform: uppercase;
   backface-visibility: hidden;
+  margin-bottom: 60px;
 }
 .heading-primary-main {
   display: block;
