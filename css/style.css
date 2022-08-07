@@ -10,11 +10,7 @@ Dark green: #28b485
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  /*
-   * change the box model so that borders and paddings are no longer added
-   * to total width and total height that we specify for a box
-  */
+  box-sizing: inherit;
 }
 html {
   font-size: 62.5%;
@@ -26,6 +22,11 @@ body {
   line-height: 1.7;
   color: #777;
   padding: 3rem;
+  box-sizing: border-box;
+  /*
+   * change the box model so that borders and paddings are no longer added
+   * to total width and total height that we specify for a box
+  */
 }
 .header {
   height: 95vh;
