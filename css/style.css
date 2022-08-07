@@ -121,6 +121,7 @@ body {
   border-radius: 100px;
   transition: all 0.2s;
   position: relative;
+  font-size: 1.6rem;
 }
 .btn:hover {
   transform: translateY(-3px);
