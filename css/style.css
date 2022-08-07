@@ -6,7 +6,10 @@ Medium green: #55c57a
 Dark green: #28b485
 
 */
-/* Basic reset using universal selector [Every browser render the page in exact same way]*/
+
+/* 
+ * Basic reset using universal selector [Every browser render the page in exact same way]
+*/
 *,
 *::after,
 *::before {
